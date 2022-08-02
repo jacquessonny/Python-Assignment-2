@@ -1,1 +1,0 @@
-row_ size = input()
